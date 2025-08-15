@@ -1,3 +1,3 @@
-## Hi there I'm Stephen John Kling and this is everything you need to know about me 👋
+## Hi there I'm Stephen John Kling an aspiring game developer 👋
 
 
