@@ -1,3 +1,3 @@
-## Hi there I'm Stephen John Kling an aspiring game developer 👋
+## Vibe coding master walang saysay ang buhay kung walang AI 👋
 
 
