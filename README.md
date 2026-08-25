@@ -4,7 +4,7 @@
 
 🎨 I also do graphics design and art.
 
-🌟 Here is my Portfolio website you can view. [![Portfolio](https://img.shields.io/badge/Portfolio%Website-8A2BE2)](https://teptep.vercel.app/)
+🌟 Here is my Portfolio website you can view. [![Portfolio](https://img.shields.io/badge/Portfolio%20Website-8A2BE2)](https://teptep.vercel.app/)
 
 😁 You can visit me through my socials.
 
