@@ -1,6 +1,6 @@
 ## Hi, I'm Stephen John Kling 👋
 
-💻 I have works that spans from frontend to backend.
+💻 I have works that expands from frontend to backend.
 
 🎨 I also do graphics design and art.
 
